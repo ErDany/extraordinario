@@ -1,0 +1,10 @@
+C:\Users\erickdaniel\Pictures\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\erickdaniel\Pictures\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\erickdaniel\Pictures\Agenda\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\erickdaniel\Pictures\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\erickdaniel\Pictures\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\erickdaniel\Pictures\Agenda\Agenda\obj\Debug\Agenda.MainForm.resources
+C:\Users\erickdaniel\Pictures\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\erickdaniel\Pictures\Agenda\Agenda\obj\Debug\Agenda.Editar.resources
+C:\Users\erickdaniel\Pictures\Agenda\Agenda\bin\Debug\MySql.Data.dll
+C:\Users\erickdaniel\Pictures\Agenda\Agenda\obj\Debug\Agenda.Nuevo.resources
